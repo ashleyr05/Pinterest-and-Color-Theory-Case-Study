@@ -1,7 +1,7 @@
 # Pinterest-and-Color-Theory-Case-Study
 
 ### A DS 4002 Case Study by Ashley Rommel
-![Alt text]([https://www.manicare.com.au/blog/manicare-blog-colour-theory-beauty-basics.html?lang=en_AU](https://www.google.com/url?sa=i&url=https%3A%2F%2Fscienceofstyle.com.au%2Fblog%2Ftwo-tips-to-tell-warm-from-cool-when-shopping&psig=AOvVaw0twL_en9V9dRka77yU1Sb4&ust=1733805435738000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiDjtvumYoDFQAAAAAdAAAAABAE))
+![Color Theory Basics](https://scienceofstyle-site-production.s3.ap-southeast-2.amazonaws.com/YOKMkfW9Cf0KWPnnagkK0xkZUcC5Dd-metaaW1hZ2UucG5n-.png)
 
 ## Hook and Rubric Documents
 The hook document outlining the case study is the file labeled CS3-Color-Theory-Hook.pdf. The rubric CS3-Color-Theory-Rubric.pdf outlines the formatting, submission requirements, and final deliverables for this assignment. Both documents will be very helpful with your completion of the case study to ensure your success on the assignment.
